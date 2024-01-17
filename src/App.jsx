@@ -1,6 +1,6 @@
-import companyLogo from "/logo.png";
+import companyLogo from "../public/logo.png";
 import DarkModeToggle from "../components/LightDarkMode.jsx";
-import coverImage from "../images/illustration-intro.png";
+import coverImage from "../public/illustration-intro.png";
 
 function App({ children }) {
   return (
